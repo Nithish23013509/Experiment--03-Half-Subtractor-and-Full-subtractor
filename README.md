@@ -1,4 +1,4 @@
-![292768502-5e672719-40cf-47ce-8ecb-29b83c5fae1a](https://github.com/Nithish23013509/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149038138/175d5293-fe4d-4626-ab40-051b53d33953)# NAME: NITHISH S
+# NAME: NITHISH S
 # REFERENCE NUMBER:23013509
 # Experiment--04-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
